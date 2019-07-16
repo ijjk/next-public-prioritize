@@ -1,0 +1,1 @@
+export default () => <p>dynamic page</p>
